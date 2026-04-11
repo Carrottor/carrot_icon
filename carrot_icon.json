@@ -1,12 +1,76 @@
-﻿{
-  "library_name": "Carrot",
-  "version": "1.0.0",
-  "icons": [
-    {
-      "name": "home",
-      "category": "interface",
-      "tags": ["house", "main"],
-      "url": "https://raw.githubusercontent.com/carrot/carrot_iocn/main/icons/home.svg"
-    }
-  ]
+{
+    "name": "Carrot_二创图标库",
+    "description": "作者：@dululuwu｜更新时间：2026-04-11 00:00｜本图标库仅有萝卜猫自制图标",
+    "icons": [
+         {
+            "name": "未采用KL",
+            "url": "https://raw.githubusercontent.com/carrot/carrot_icon/main/icon/b-3.png"
+         },
+         {
+            "name": "Coolgua",
+            "url": "https://raw.githubusercontent.com/carrot/carrot_icon/main/icon/Coolgua.png"
+         },
+         {
+            "name": "Coolgua1",
+            "url": "https://raw.githubusercontent.com/carrot/carrot_icon/main/icon/Coolgua1.png"  
+         },
+         {
+            "name": "Coolgua2",
+            "url": "https://raw.githubusercontent.com/carrot/carrot_icon/main/icon/Coolgua2.png"
+         },
+         {
+            "name": "Msky",
+            "url": "https://raw.githubusercontent.com/carrot/carrot_icon/main/icon/imsky.png" 
+         },
+         {
+            "name": "Msky1",
+            "url": "https://raw.githubusercontent.com/carrot/carrot_icon/main/icon/imsky1.png" 
+         },
+         {
+            "name": "Msky2",
+            "url": "https://raw.githubusercontent.com/carrot/carrot_icon/main/icon/msky2.png"
+         },
+         {
+            "name": "kiku",
+            "url": "https://raw.githubusercontent.com/carrot/carrot_icon/main/icon/kiku1.png"
+         },
+         {
+            "name": "kiku1",
+            "url": "https://raw.githubusercontent.com/carrot/carrot_icon/main/icon/kiku2.png"
+         },
+         {
+            "name": "KL1",
+            "url": "https://raw.githubusercontent.com/carrot/carrot_icon/main/icon/KL1.png"
+         },
+         {
+            "name": "KL2",
+            "url": "https://raw.githubusercontent.com/carrot/carrot_icon/main/icon/KL2.png"
+         },
+         {
+            "name": "KL3",
+            "url": "https://raw.githubusercontent.com/carrot/carrot_icon/main/icon/KL3.png"
+         },
+         {
+            "name": "KL4",
+            "url": "https://raw.githubusercontent.com/carrot/carrot_icon/main/icon/KL4.png"
+         },
+         {
+            "name": "totoro",
+            "url": "https://raw.githubusercontent.com/carrot/carrot_icon/main/icon/totoro.png"  
+         },
+         {
+            "name": "totoro1",
+            "url": "https://raw.githubusercontent.com/carrot/carrot_icon/main/icon/totoro1.png"
+         }
+    ]
 }
+
+
+
+
+
+
+
+
+
+           

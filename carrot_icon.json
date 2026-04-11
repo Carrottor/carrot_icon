@@ -1,0 +1,12 @@
+﻿{
+  "library_name": "My Custom Icons",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "name": "home",
+      "category": "interface",
+      "tags": ["house", "main"],
+      "url": "https://raw.githubusercontent.com/carrot/carrot_iocn/main/icons/home.svg"
+    }
+  ]
+}

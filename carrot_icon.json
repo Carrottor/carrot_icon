@@ -65,7 +65,15 @@
          {
             "name": "KITI",
             "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon/main/icon/KITI.png"            
-         }
+         },
+         {
+            "name": "KITI2",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon/main/icon/KITI2.png"            
+         },
+         {
+            "name": "KITI3",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon/main/icon/KITI3.png"            
+         }        
     ]
 }
 

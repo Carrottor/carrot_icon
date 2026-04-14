@@ -73,7 +73,31 @@
          {
             "name": "KITI3",
             "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon/main/icon/KITI3.png"            
-         }        
+         }
+         {
+            "name": "xiami",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon/main/icon/xiami.png"            
+         },
+         {
+            "name": "xiami_w",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon/main/icon/xiami_w.png"            
+         },
+         {
+            "name": "xiami2",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon/main/icon/xiami2.png"            
+         },
+         {
+            "name": "Gousen",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon/main/icon/Gousen.png"            
+         },
+         {
+            "name": "feiniu",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon/main/icon/feiniu.png"            
+         }, 
+         {
+            "name": "cookie",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon/main/icon/cookie.png"            
+         }      
     ]
 }
 

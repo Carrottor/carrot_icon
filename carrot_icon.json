@@ -101,7 +101,15 @@
          {
             "name": "cookie",
             "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon/main/icon/cookie.png"            
-         }      
+         },
+         {
+            "name": "guangji",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon/main/icon/guangji.png"            
+         }, 
+         {
+            "name": "guangji_1",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon/main/icon/guangji_1.png"            
+         }         
     ]
 }
 

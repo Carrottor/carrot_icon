@@ -113,7 +113,19 @@
          {
             "name": "lingyuzhankai",
             "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/wtw.png"            
-         }        
+         },
+         {
+            "name": "laoyouji",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/laoyouji.png"            
+         },
+         {
+            "name": "feiyue",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/feiyue.png"            
+         },
+         {
+            "name": "muogu",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/muogu.png"            
+         }         
     ]
 }
 

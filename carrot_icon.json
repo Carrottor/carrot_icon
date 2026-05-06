@@ -133,7 +133,15 @@
          {
             "name": "xyz1",
             "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/xyz1.png"            
-         }        
+         },
+         {
+            "name": "yingji",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/yingji.png"            
+         },
+         {
+            "name": "yingji1",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/yingji1.png"            
+         }         
     ]
 }
 

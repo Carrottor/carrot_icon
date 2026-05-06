@@ -1,6 +1,6 @@
 {
     "name": "Carrot_二创图标库",
-    "description": "作者：@dululuwu｜更新时间：2026-04-11 00:00｜本图标库仅有萝卜猫自制图标",
+    "description": "作者：@dululuwu｜更新时间：2026-05-06 00:00｜本图标库仅有萝卜猫自制图标",
     "icons": [
          {
             "name": "未采用KL",
@@ -125,7 +125,15 @@
          {
             "name": "mogu",
             "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/mogu.png"            
-         }         
+         },
+         {
+            "name": "xyz",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/xyz.png"            
+         },
+         {
+            "name": "xyz1",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/xyz1.png"            
+         }        
     ]
 }
 
